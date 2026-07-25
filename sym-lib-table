@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name 2057-ICE40HX4K-TQ144-breakout-rescue)(type Legacy)(uri ${KIPRJMOD}/2057-ICE40HX4K-TQ144-breakout-rescue.lib)(options "")(descr ""))
+	(version 7)
+	(lib (name "2057-ICE40HX4K-TQ144-breakout-rescue") (type "Legacy") (uri "${KIPRJMOD}/2057-ICE40HX4K-TQ144-breakout-rescue.lib") (options "") (descr ""))
+	(lib (name "2057-ICE40HX4K-TQ144-breakout-cache") (type "Legacy") (uri "/Users/paul/Documents/Electronics/65816 Breadboard/2057-ICE40HX4K-TQ144-breakout/2057-ICE40HX4K-TQ144-breakout-cache.lib") (options "") (descr "Legacy project cache library"))
 )
