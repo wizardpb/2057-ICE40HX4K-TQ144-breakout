@@ -22127,8 +22127,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC FPGA 107 I/O 144TQFP"
 			(at 53.34 73.66 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22149,17 +22150,6 @@
 			)
 		)
 		(property "MPN" "ICE40HX4K-TQ144"
-			(at 53.34 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "IC FPGA 107 I/O 144TQFP"
 			(at 53.34 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -22678,8 +22668,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC FPGA 107 I/O 144TQFP"
 			(at 105.41 71.12 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22700,17 +22691,6 @@
 			)
 		)
 		(property "MPN" "ICE40HX4K-TQ144"
-			(at 105.41 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "IC FPGA 107 I/O 144TQFP"
 			(at 105.41 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -23229,8 +23209,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC FPGA 107 I/O 144TQFP"
 			(at 195.58 83.82 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23251,17 +23232,6 @@
 			)
 		)
 		(property "MPN" "ICE40HX4K-TQ144"
-			(at 195.58 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "IC FPGA 107 I/O 144TQFP"
 			(at 195.58 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -23780,8 +23750,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC FPGA 107 I/O 144TQFP"
 			(at 153.67 71.12 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23802,17 +23773,6 @@
 			)
 		)
 		(property "MPN" "ICE40HX4K-TQ144"
-			(at 153.67 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "IC FPGA 107 I/O 144TQFP"
 			(at 153.67 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -24331,8 +24291,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC FPGA 107 I/O 144TQFP"
 			(at 257.81 69.85 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24353,17 +24314,6 @@
 			)
 		)
 		(property "MPN" "ICE40HX4K-TQ144"
-			(at 257.81 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "IC FPGA 107 I/O 144TQFP"
 			(at 257.81 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -24881,8 +24831,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 45.72 127 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24914,17 +24865,6 @@
 			)
 		)
 		(property "Manufacturer" "TDK Corporation"
-			(at 45.72 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 45.72 127 0)
 			(hide yes)
 			(show_name no)
@@ -25005,8 +24945,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 55.88 127 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25038,17 +24979,6 @@
 			)
 		)
 		(property "Manufacturer" "TDK Corporation"
-			(at 55.88 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 55.88 127 0)
 			(hide yes)
 			(show_name no)
@@ -25129,8 +25059,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 66.04 127 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25162,17 +25093,6 @@
 			)
 		)
 		(property "Manufacturer" "TDK Corporation"
-			(at 66.04 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 66.04 127 0)
 			(hide yes)
 			(show_name no)
@@ -25253,8 +25173,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 76.2 127 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25286,17 +25207,6 @@
 			)
 		)
 		(property "Manufacturer" "TDK Corporation"
-			(at 76.2 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 76.2 127 0)
 			(hide yes)
 			(show_name no)
@@ -25453,8 +25363,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 86.36 127 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25486,17 +25397,6 @@
 			)
 		)
 		(property "Manufacturer" "TDK Corporation"
-			(at 86.36 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 86.36 127 0)
 			(hide yes)
 			(show_name no)
@@ -25577,8 +25477,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 96.52 127 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25610,17 +25511,6 @@
 			)
 		)
 		(property "Manufacturer" "TDK Corporation"
-			(at 96.52 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 96.52 127 0)
 			(hide yes)
 			(show_name no)
@@ -25701,8 +25591,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 106.68 127 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25734,17 +25625,6 @@
 			)
 		)
 		(property "Manufacturer" "TDK Corporation"
-			(at 106.68 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 106.68 127 0)
 			(hide yes)
 			(show_name no)
@@ -25825,8 +25705,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 116.84 127 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25858,17 +25739,6 @@
 			)
 		)
 		(property "Manufacturer" "TDK Corporation"
-			(at 116.84 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 116.84 127 0)
 			(hide yes)
 			(show_name no)
@@ -25949,8 +25819,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "DIODE GEN PURP 75V 250MA SOD323F"
 			(at 260.35 33.02 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25982,17 +25853,6 @@
 			)
 		)
 		(property "Manufacturer" "Diodes Incorporated"
-			(at 260.35 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "DIODE GEN PURP 75V 250MA SOD323F"
 			(at 260.35 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -26225,8 +26085,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 274.32 35.56 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26258,17 +26119,6 @@
 			)
 		)
 		(property "Manufacturer" "TDK Corporation"
-			(at 274.32 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 274.32 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -26425,8 +26275,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 295.91 55.88 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26458,17 +26309,6 @@
 			)
 		)
 		(property "Manufacturer" "TDK Corporation"
-			(at 295.91 55.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 295.91 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -26549,8 +26389,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 10UF 6.3V X5R 0603"
 			(at 307.34 55.88 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26571,17 +26412,6 @@
 			)
 		)
 		(property "MPN" "CL10A106MQ8NNNC"
-			(at 307.34 55.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "CAP CER 10UF 6.3V X5R 0603"
 			(at 307.34 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -26663,16 +26493,6 @@
 		(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 318.77 52.07 0)
 			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 318.77 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26871,8 +26691,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 295.91 41.91 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26904,17 +26725,6 @@
 			)
 		)
 		(property "Manufacturer" "TDK Corporation"
-			(at 295.91 41.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 295.91 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -26995,8 +26805,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 10UF 6.3V X5R 0603"
 			(at 307.34 41.91 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27017,17 +26828,6 @@
 			)
 		)
 		(property "MPN" "CL10A106MQ8NNNC"
-			(at 307.34 41.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "CAP CER 10UF 6.3V X5R 0603"
 			(at 307.34 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -27109,16 +26909,6 @@
 		(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 318.77 38.1 0)
 			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 318.77 38.1 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27317,8 +27107,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 137.16 127 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27350,17 +27141,6 @@
 			)
 		)
 		(property "Manufacturer" "TDK Corporation"
-			(at 137.16 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 137.16 127 0)
 			(hide yes)
 			(show_name no)
@@ -27441,8 +27221,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 147.32 127 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27474,17 +27255,6 @@
 			)
 		)
 		(property "Manufacturer" "TDK Corporation"
-			(at 147.32 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 147.32 127 0)
 			(hide yes)
 			(show_name no)
@@ -27565,8 +27335,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 157.48 127 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27598,17 +27369,6 @@
 			)
 		)
 		(property "Manufacturer" "TDK Corporation"
-			(at 157.48 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 157.48 127 0)
 			(hide yes)
 			(show_name no)
@@ -27689,8 +27449,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 167.64 127 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27722,17 +27483,6 @@
 			)
 		)
 		(property "Manufacturer" "TDK Corporation"
-			(at 167.64 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 167.64 127 0)
 			(hide yes)
 			(show_name no)
@@ -28115,16 +27865,6 @@
 				)
 			)
 		)
-		(property "Description" ""
-			(at 288.29 69.85 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Description" "RES 10K OHM 1% 1/10W 0603"
 			(at 288.29 69.85 0)
 			(hide yes)
@@ -28229,16 +27969,6 @@
 		(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 217.17 80.01 0)
 			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 217.17 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28511,8 +28241,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 25.4 127 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28544,17 +28275,6 @@
 			)
 		)
 		(property "Manufacturer" "TDK Corporation"
-			(at 25.4 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 25.4 127 0)
 			(hide yes)
 			(show_name no)
@@ -28625,16 +28345,6 @@
 		(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 217.17 74.93 0)
 			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 217.17 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28747,16 +28457,6 @@
 		(property "Datasheet" "https://drawings-pdf.s3.amazonaws.com/11636.pdf"
 			(at 275.59 213.36 0)
 			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 275.59 226.06 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28992,8 +28692,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC REG LINEAR 3.3V 1A SOT223"
 			(at 377.19 45.72 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29014,17 +28715,6 @@
 			)
 		)
 		(property "MPN" "AZ1117CH-3.3TRG1"
-			(at 377.19 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "IC REG LINEAR 3.3V 1A SOT223"
 			(at 377.19 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -29119,8 +28809,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 10UF 6.3V X5R 0603"
 			(at 361.95 49.53 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29141,17 +28832,6 @@
 			)
 		)
 		(property "MPN" "CL10A106MQ8NNNC"
-			(at 361.95 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "CAP CER 10UF 6.3V X5R 0603"
 			(at 361.95 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -29243,8 +28923,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 22UF 6.3V X5R 0603"
 			(at 388.62 49.53 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29265,17 +28946,6 @@
 			)
 		)
 		(property "MPN" "CL10A226MQ8NRNE"
-			(at 388.62 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "CAP CER 22UF 6.3V X5R 0603"
 			(at 388.62 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -29410,7 +29080,7 @@
 				)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 395.351 41.3258 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29518,8 +29188,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC REG LINEAR 1.2V 1A SOT223"
 			(at 378.46 67.31 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29540,17 +29211,6 @@
 			)
 		)
 		(property "MPN" "AZ1117CH-1.2TRG1"
-			(at 378.46 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "IC REG LINEAR 1.2V 1A SOT223"
 			(at 378.46 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -29645,8 +29305,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 10UF 6.3V X5R 0603"
 			(at 363.22 71.12 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29667,17 +29328,6 @@
 			)
 		)
 		(property "MPN" "CL10A106MQ8NNNC"
-			(at 363.22 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "CAP CER 10UF 6.3V X5R 0603"
 			(at 363.22 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -29769,8 +29419,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 22UF 6.3V X5R 0603"
 			(at 389.89 71.12 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29791,17 +29442,6 @@
 			)
 		)
 		(property "MPN" "CL10A226MQ8NRNE"
-			(at 389.89 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "CAP CER 22UF 6.3V X5R 0603"
 			(at 389.89 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -30045,14 +29685,16 @@
 				(justify left)
 			)
 		)
-		(property "Description" ""
-			(at 246.38 120.65 0)
+		(property "Description" "SWITCH TACTILE SPST-NO 0.05A 24V"
+			(at 251.46 95.25 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1.524 1.524)
 				)
+				(justify left)
 			)
 		)
 		(property "Digi-Key_PN" "450-1650-ND"
@@ -30117,18 +29759,6 @@
 		)
 		(property "DK_Detail_Page" "/product-detail/en/te-connectivity-alcoswitch-switches/1825910-6/450-1650-ND/1632536"
 			(at 251.46 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Description" "SWITCH TACTILE SPST-NO 0.05A 24V"
-			(at 251.46 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30239,14 +29869,16 @@
 				(justify left)
 			)
 		)
-		(property "Description" ""
-			(at 246.38 137.16 0)
+		(property "Description" "SWITCH TACTILE SPST-NO 0.05A 24V"
+			(at 251.46 111.76 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1.524 1.524)
 				)
+				(justify left)
 			)
 		)
 		(property "Digi-Key_PN" "450-1650-ND"
@@ -30311,18 +29943,6 @@
 		)
 		(property "DK_Detail_Page" "/product-detail/en/te-connectivity-alcoswitch-switches/1825910-6/450-1650-ND/1632536"
 			(at 251.46 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Description" "SWITCH TACTILE SPST-NO 0.05A 24V"
-			(at 251.46 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30663,14 +30283,16 @@
 				(justify left)
 			)
 		)
-		(property "Description" ""
-			(at 330.2 77.47 0)
+		(property "Description" "XTAL OSC XO 25.0000MHZ HCMOS SMD"
+			(at 335.28 52.07 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1.524 1.524)
 				)
+				(justify left)
 			)
 		)
 		(property "Digi-Key_PN" "631-1156-1-ND"
@@ -30735,18 +30357,6 @@
 		)
 		(property "DK_Detail_Page" "/product-detail/en/idt-integrated-device-technology-inc/XLH536025.000000I/631-1156-1-ND/2074684"
 			(at 335.28 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Description" "XTAL OSC XO 25.0000MHZ HCMOS SMD"
-			(at 335.28 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30848,16 +30458,6 @@
 		(property "Datasheet" "https://drawings-pdf.s3.amazonaws.com/11636.pdf"
 			(at 53.34 215.9 0)
 			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 53.34 215.9 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -31153,16 +30753,6 @@
 				)
 			)
 		)
-		(property "Description" ""
-			(at 99.06 215.9 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Description" "Connector Header Through Hole 60 position 0.100\" (2.54mm)"
 			(at 99.06 215.9 0)
 			(hide yes)
@@ -31449,16 +31039,6 @@
 				)
 			)
 		)
-		(property "Description" ""
-			(at 195.58 226.06 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Description" "Connector Header Through Hole 40 position 0.100\" (2.54mm)"
 			(at 195.58 226.06 0)
 			(hide yes)
@@ -31686,16 +31266,6 @@
 				)
 			)
 		)
-		(property "Description" ""
-			(at 361.95 25.4 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Description" "Green LED"
 			(at 361.95 25.4 0)
 			(hide yes)
@@ -31808,16 +31378,6 @@
 				)
 			)
 		)
-		(property "Description" ""
-			(at 370.84 25.4 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Description" "RES 330 OHM 1% 1/10W 0603"
 			(at 370.84 25.4 0)
 			(hide yes)
@@ -31922,16 +31482,6 @@
 		(property "Datasheet" "https://app.adam-tech.com/products/download/data_sheet/201605/ph1-xx-ua-data-sheet.pdf"
 			(at 361.95 177.8 0)
 			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 361.95 177.8 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -32249,7 +31799,7 @@
 				)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 378.841 21.0058 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32813,16 +32363,6 @@
 				)
 			)
 		)
-		(property "Description" ""
-			(at 289.56 104.14 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Description" "Green LED"
 			(at 289.56 104.14 0)
 			(hide yes)
@@ -32935,16 +32475,6 @@
 				)
 			)
 		)
-		(property "Description" ""
-			(at 298.45 104.14 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Description" "RES 330 OHM 1% 1/10W 0603"
 			(at 298.45 104.14 0)
 			(hide yes)
@@ -33026,7 +32556,7 @@
 				)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 306.451 99.7458 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33126,16 +32656,6 @@
 		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Harvatek%20PDFs/B1911PG--20D000514U1930.pdf"
 			(at 289.56 110.49 0)
 			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 289.56 110.49 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33248,16 +32768,6 @@
 		(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 298.45 110.49 0)
 			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 298.45 110.49 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33379,16 +32889,6 @@
 				)
 			)
 		)
-		(property "Description" ""
-			(at 289.56 116.84 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Description" "Green LED"
 			(at 289.56 116.84 0)
 			(hide yes)
@@ -33493,16 +32993,6 @@
 		(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 298.45 116.84 0)
 			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 298.45 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33701,8 +33191,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 35.56 127 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33734,17 +33225,6 @@
 			)
 		)
 		(property "Manufacturer" "TDK Corporation"
-			(at 35.56 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 35.56 127 0)
 			(hide yes)
 			(show_name no)
@@ -33816,16 +33296,6 @@
 		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Harvatek%20PDFs/B1911PG--20D000514U1930.pdf"
 			(at 289.56 123.19 0)
 			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 289.56 123.19 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33938,16 +33408,6 @@
 		(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 298.45 123.19 0)
 			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 298.45 123.19 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -34113,7 +33573,7 @@
 				)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 333.121 66.7258 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34525,16 +33985,6 @@
 				)
 			)
 		)
-		(property "Description" ""
-			(at 289.56 129.54 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Description" "Green LED"
 			(at 289.56 129.54 0)
 			(hide yes)
@@ -34639,16 +34089,6 @@
 		(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 298.45 129.54 0)
 			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 298.45 129.54 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -34770,16 +34210,6 @@
 				)
 			)
 		)
-		(property "Description" ""
-			(at 289.56 135.89 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Description" "Green LED"
 			(at 289.56 135.89 0)
 			(hide yes)
@@ -34884,16 +34314,6 @@
 		(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 298.45 135.89 0)
 			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 298.45 135.89 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -35015,16 +34435,6 @@
 				)
 			)
 		)
-		(property "Description" ""
-			(at 289.56 142.24 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Description" "Green LED"
 			(at 289.56 142.24 0)
 			(hide yes)
@@ -35129,16 +34539,6 @@
 		(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 298.45 142.24 0)
 			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 298.45 142.24 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -35260,16 +34660,6 @@
 				)
 			)
 		)
-		(property "Description" ""
-			(at 289.56 148.59 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Description" "Green LED"
 			(at 289.56 148.59 0)
 			(hide yes)
@@ -35374,16 +34764,6 @@
 		(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 298.45 148.59 0)
 			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 298.45 148.59 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -35506,8 +34886,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 307.34 177.8 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -35539,17 +34920,6 @@
 			)
 		)
 		(property "Manufacturer" "TDK Corporation"
-			(at 307.34 177.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 307.34 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -35622,16 +34992,6 @@
 		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL10A475KQ8NNNC_Spec.pdf"
 			(at 320.04 177.8 0)
 			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 320.04 177.8 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -35744,16 +35104,6 @@
 		(property "Datasheet" "https://www.renesas.com/us/en/document/dst/at45db081e-datasheet?language=en"
 			(at 261.62 175.26 0)
 			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 269.24 172.72 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -35892,16 +35242,6 @@
 				)
 			)
 		)
-		(property "Description" ""
-			(at 240.03 172.72 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Description" "RES 10K OHM 1% 1/10W 0603"
 			(at 240.03 172.72 0)
 			(hide yes)
@@ -35983,7 +35323,7 @@
 				)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 128.651 249.6058 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36135,7 +35475,7 @@
 				)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 77.851 249.6058 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36211,7 +35551,7 @@
 				)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 28.321 249.6058 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37004,8 +36344,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "DIODE GEN PURP 75V 250MA SOD323F"
 			(at 223.52 44.45 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -37037,17 +36378,6 @@
 			)
 		)
 		(property "Manufacturer" "Diodes Incorporated"
-			(at 223.52 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "DIODE GEN PURP 75V 250MA SOD323F"
 			(at 223.52 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -37131,14 +36461,16 @@
 				(justify left)
 			)
 		)
-		(property "Description" ""
-			(at 45.72 151.13 0)
+		(property "Description" "PC TEST POINT"
+			(at 40.64 176.53 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1.524 1.524)
 				)
+				(justify left)
 			)
 		)
 		(property "Digi-Key_PN" "2019-RCWCTECT-ND"
@@ -37203,18 +36535,6 @@
 		)
 		(property "DK_Detail_Page" "/product-detail/en/te-connectivity-amp-connectors/RCW-0C/A106146CT-ND/3477803"
 			(at 40.64 173.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Description" "PC TEST POINT"
-			(at 40.64 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37316,8 +36636,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 22UF 6.3V X5R 0603"
 			(at 124.46 163.83 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -37338,17 +36659,6 @@
 			)
 		)
 		(property "MPN" "CL10A226MQ8NRNE"
-			(at 124.46 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "CAP CER 22UF 6.3V X5R 0603"
 			(at 124.46 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -37443,14 +36753,16 @@
 				(justify left)
 			)
 		)
-		(property "Description" ""
-			(at 63.5 151.13 0)
+		(property "Description" "PC TEST POINT"
+			(at 58.42 176.53 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1.524 1.524)
 				)
+				(justify left)
 			)
 		)
 		(property "Digi-Key_PN" "2019-RCWCTECT-ND"
@@ -37515,18 +36827,6 @@
 		)
 		(property "DK_Detail_Page" "https://www.digikey.com/short/32595572"
 			(at 58.42 173.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Description" "PC TEST POINT"
-			(at 58.42 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37628,14 +36928,16 @@
 				(justify left)
 			)
 		)
-		(property "Description" ""
-			(at 372.11 123.19 0)
+		(property "Description" "USB-C (USB TYPE-C) USB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Surface Mount, Right Angle; Through Hole"
+			(at 377.19 97.79 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1.524 1.524)
 				)
+				(justify left)
 			)
 		)
 		(property "Digi-Key_PN" "2073-USB4105-GF-ATR-ND"
@@ -37676,18 +36978,6 @@
 		)
 		(property "DK_Detail_Page" "https://www.digikey.com/en/products/detail/gct/USB4105-GF-A/11198441"
 			(at 377.19 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Description" "USB-C (USB TYPE-C) USB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Surface Mount, Right Angle; Through Hole"
-			(at 377.19 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37825,8 +37115,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "DIODE GEN PURP 75V 250MA SOD323F"
 			(at 223.52 52.07 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -37858,17 +37149,6 @@
 			)
 		)
 		(property "Manufacturer" "Diodes Incorporated"
-			(at 223.52 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "DIODE GEN PURP 75V 250MA SOD323F"
 			(at 223.52 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -37947,8 +37227,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10 (8 + 2) Position Card Connector Secure Digital - microSD Surface Mount, Right Angle Gold"
 			(at 180.34 163.83 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -37980,17 +37261,6 @@
 			)
 		)
 		(property "Manufacturer" "Hirose Electric Co Ltd"
-			(at 180.34 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "10 (8 + 2) Position Card Connector Secure Digital - microSD Surface Mount, Right Angle Gold"
 			(at 180.34 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -38174,8 +37444,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 133.35 163.83 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -38207,17 +37478,6 @@
 			)
 		)
 		(property "Manufacturer" "TDK Corporation"
-			(at 133.35 163.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 133.35 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -38265,7 +37525,7 @@
 				)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 133.731 146.7358 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38828,16 +38088,6 @@
 				)
 			)
 		)
-		(property "Description" ""
-			(at 392.43 119.38 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Description" "RES SMD 5.1K OHM 1% 1/10W 0603"
 			(at 392.43 119.38 0)
 			(hide yes)
@@ -38942,16 +38192,6 @@
 		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/cr.pdf?sfvrsn=574d41f6_14"
 			(at 342.9 127 0)
 			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 342.9 127 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -39224,16 +38464,6 @@
 				)
 			)
 		)
-		(property "Description" ""
-			(at 231.14 175.26 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Description" "RES 10K OHM 1% 1/10W 0603"
 			(at 231.14 175.26 0)
 			(hide yes)
@@ -39415,16 +38645,6 @@
 		(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/10129381.pdf"
 			(at 361.95 200.66 0)
 			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 361.95 200.66 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
